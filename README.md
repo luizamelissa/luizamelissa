@@ -2,9 +2,9 @@
 
 ## 🧸 About me 
 
--💻 Studying JavaScript and Python 
--📫 E-mail: meilux8@gmail.com
--📚 Systems Development ⅔
+- 💻 Studying JavaScript and Python 
+- 📫 E-mail: meilux8@gmail.com
+- 📚 Systems Development ⅔
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
