@@ -1,5 +1,5 @@
 <div align="center">
-## About me 🧸
+## 🧸 About me 
 
 - 💻 Studying JavaScript and Python 
 - 📫 E-mail: meilux8@gmail.com
