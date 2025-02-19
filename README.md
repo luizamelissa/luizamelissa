@@ -1,6 +1,6 @@
-## Hello! I'm luizamelissa
+## About me 🧸
 
-- 💻 Studying JavaScript and Python
+- 💻 Full Stack 
 - 📫 E-mail: meilux8@gmail.com
 
 <div style="display: inline_block"><br>
