@@ -4,7 +4,6 @@
 
 <div align="left">
 
-- 💻 Studying JavaScript and Python 
 - 📫 E-mail: meilux8@gmail.com
 - 📚 Systems Development ⅔
 
