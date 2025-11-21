@@ -2,7 +2,7 @@
 
 ## 🧸 About me 
 
-<div align="left">
+
 
 
 
